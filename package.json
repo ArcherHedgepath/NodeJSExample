@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node Project",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcherHedgepath/NodeJSExample.git"
+  },
+  "keywords": [
+    "Example",
+    "Node"
+  ],
+  "author": "Archer Hedgepath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcherHedgepath/NodeJSExample/issues"
+  },
+  "homepage": "https://github.com/ArcherHedgepath/NodeJSExample#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "light-server": "^2.9.1"
+  }
+}
